@@ -7,7 +7,6 @@
         <router-link :to="{ name: 'About' }">About Ecstasy</router-link>
         <a href="#features">Features</a>
         <router-link :to="{ name: 'Bot' }">Ecstasy Bot</router-link>
-        <!-- <router-link :to="{ name: 'useBot' }">How to Use Bot</router-link> -->
       </div>
       <a href="#getstarted"><button class="-mr-8 sm:-mr-12 md:mr-0 text-base lg:text-lg py-2 md:py-3 px-4 md:px-8 bg-white rounded-lg"><p class="text-gradient">Get started</p></button></a>
       <div @click="toggleIsNavOpen()" class="pr-2 md:pr-16 md:hidden h-3 flex flex-col justify-between">
@@ -19,6 +18,7 @@
       <router-link @click="isNavOpen = !isNavOpen" :to="{ name: 'Home' }" class="mb-6">Home</router-link>
       <router-link @click="isNavOpen = !isNavOpen" :to="{ name: 'About' }" class="mb-6">About Ecstasy</router-link>
       <a @click="isNavOpen = !isNavOpen" href="#features" class="mb-6">Features</a>
+      <router-link @click="isNavOpen = !isNavOpen" :to="{ name: 'Bot' }" class="mb-6">Ecstasy Bot</router-link>
     </div>
   </main>
 </template>
