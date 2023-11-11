@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.text-gradient {
+  background: linear-gradient(293.46deg, #EFA058 32.25%, #EF5858 73.17%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.bg-gradient {
+  background: linear-gradient(293.46deg, #EFA058 32.25%, #EF5858 73.17%);
+}
+
+@font-face {
+  font-family: "Aeonik";
+  src: url('./assets/fonts/AeonikTRIAL-Bold.otf');
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Aeonik";
+  src: url('./assets/fonts/AeonikTRIAL-BoldItalic.otf');
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Aeonik";
+  src: url('./assets/fonts/AeonikTRIAL-Light.otf');
+  font-weight: light;
+}
+@font-face {
+  font-family: "Aeonik";
+  src: url('./assets/fonts/AeonikTRIAL-LightItalic.otf');
+  font-weight: light;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Aeonik";
+  src: url('./assets/fonts/AeonikTRIAL-Regular.otf');
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Aeonik";
+  src: url('./assets/fonts/AeonikTRIAL-RegularItalic.otf');
+  font-weight: normal;
+  font-style: italic;
+}
