@@ -9,8 +9,8 @@
         <div class="flex flex-col lg:flex-row text-left">
           <div class="flex-[1.1]">
             <!-- <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-left">How to use <span class="block text-gradient">Ecstacy</span></p> -->
-            <p class="mt-10 2xl:text-[52px] sm:text-[20px] text-white">How to use <span class="text-gradient">Ecstacy</span></p>
-            <p class="mb-8 2xl:text-[52px] sm:text-[20px] text-gradient" style="margin-top: -20px;">Chatbot on WhatsApp</p>
+            <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-left">How to use <span class="text-gradient">Ecstacy</span></p>
+            <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-gradient text-left" style="margin-top: -20px;">Chatbot on WhatsApp</p>
             <p class="text-gray4 lg:w-3/4 text-muted">Ecstasy allows you to Buy cheap data bundles, Buy airtime at cheaper rate, Recharge TV and Pay Bills right from your in-app wallet</p>
             <!-- <a href="#getstarted"><button class="mt-10 py-4 rounded-xl text-base 2xl:text-lg px-20 bg-gradient text-white">Launch Bot</button></a> -->
           </div>
