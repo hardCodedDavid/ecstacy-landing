@@ -10,13 +10,13 @@
         <div class="w-full flex-1 bg-primary py-6 px-8 rounded-lg text-center flex flex-col items-center justify-center">
           <p class="text-gradient">Email</p>
           <img class="my-8" src="../assets/images/ion_mail-unread-outline.svg" />
-          <p class="text-gray4 px-4 py-2 bg-darkest rounded-xl">support@ecstasynigeria.com</p>
+          <p class="text-gray4 px-4 py-2 bg-darkest rounded-xl">support.ecstasynigeria@gmail.com</p>
         </div>
-        <div class="w-full flex-1 bg-primary py-6 px-8 rounded-lg text-center flex flex-col items-center justify-center">
+        <!-- <div class="w-full flex-1 bg-primary py-6 px-8 rounded-lg text-center flex flex-col items-center justify-center">
           <p class="text-gradient">WhatsApp</p>
           <img class="my-8" src="../assets/images/ic_baseline-whatsapp.svg" />
           <p class="text-gray4 px-4 py-2 bg-darkest rounded-xl">+2348103043713</p>
-        </div>
+        </div> -->
       </div>
     </div>
   </main>

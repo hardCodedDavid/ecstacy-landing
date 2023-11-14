@@ -8,9 +8,14 @@
       <section id="hero" class="m-auto text-center w-full flex flex-col justify-center items-center">
         <div class="flex flex-col lg:flex-row text-left">
           <div class="flex-[1.1]">
-            <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-left"><span class="block text-gradient">I’m Annie,</span>AI-Bill Payment Chatbot on Whatsapp</p>
+            <!-- <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-left">AI-Bill<span class="block text-gradient">I’m Annie,</span></p> -->
+            <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-left text-white"><b class="text-gradient" style="font-weight: 500;">I’m Jimmy, </b>AI-Bill</p>
+            <p class="mt-0 p-0 mb-8 text-5xl 2xl:text-[65px] text-white text-left" style="margin-top: -20px;">Payment Chatbot on Whatsapp</p>
             <p class="text-gray4 lg:w-3/4">Purchase SME/CG Data bundles, Airtime, Electricity token and other utilities seamlessly with Annie on your Whatsapp App.</p>
+           <div class="md:flex items-center">
             <a href="#getstarted"><button class="mt-10 py-4 rounded-xl text-base 2xl:text-lg px-20 bg-gradient text-white">Launch Bot</button></a>
+            <p class="text-gray4 ml-5 mt-8">Use for free on WhatsApp!</p>
+           </div>
           </div>
           <div class="flex-[1.1] overflow-scroll lg:overflow-hidden">
             <div class="h-auto w-auto mt-8 relative">
@@ -25,7 +30,7 @@
             <div class="w-full md:w-1/3 relative">
                 <div class="flex flex-col h-full">
                     <div class="bg-primary py-9 px-7 rounded-xl flex-grow">
-                    <p class="text-gray6 text-xl 2xl:text-2xl mb-4">Purchase data</p>
+                    <p class="text-gray6 text-xl 2xl:text-2xl mb-4">Command Purchase</p>
                     <p class="text-secondary">Annie supports purchasing airtime with commands in WhatsApp, allowing you to engage in seamless and fast conversations with the AI-Chatbot through text instructions.</p>
                     </div>
                     <!-- <div class="bg-darker w-[90%] h-32 -z-[1] -rotate-12 ml-4 rounded-xl"></div> -->
@@ -34,7 +39,7 @@
             <div class="w-full md:w-1/3 relative">
                 <div class="flex flex-col h-full">
                     <div class="bg-primary py-9 px-7 rounded-xl flex-grow">
-                    <p class="text-gray6 text-xl 2xl:text-2xl mb-4">Purchase airtime</p>
+                    <p class="text-gray6 text-xl 2xl:text-2xl mb-4">Hosted in Cloud</p>
                     <p class="text-secondary">Meeting data privacy requirements through Cloud hosted servers.</p>
                     </div>
                     <!-- <div class="bg-darker w-[90%] h-32 -z-[1] -rotate-12 ml-4 rounded-xl"></div> -->
@@ -43,7 +48,7 @@
             <div class="w-full md:w-1/3 relative">
                 <div class="flex flex-col h-full">
                     <div class="bg-primary py-9 px-7 rounded-xl flex-grow">
-                    <p class="text-gray6 text-xl 2xl:text-2xl mb-4">Pay bills</p>
+                    <p class="text-gray6 text-xl 2xl:text-2xl mb-4">GDPR compliant</p>
                     <p class="text-secondary">Protecting user data is fundamental to our mission. <br>Our Chatbot encodes the user data through our API.</p>
                     </div>
                     <!-- <div class="bg-darker w-[90%] h-32 -z-[1] -rotate-12 ml-4 rounded-xl"></div> -->
@@ -104,13 +109,13 @@
                     <div class="w-1/4 mt-4">
                         <img src="../assets/images/glo.png" alt="Partner 4">
                     </div>
-                    <div class="w-1/4 mt-4">
+                    <div class="w-1/3 mt-4">
                         <img src="../assets/images/atl.png" alt="Partner 5">
                     </div>
-                    <div class="w-1/4 mt-4">
+                    <div class="w-1/3 mt-4 part6">
                         <img src="../assets/images/fw.png" alt="Partner 6">
                     </div>
-                    <div class="w-1/4 mt-4">
+                    <div class="w-1/3 mt-4 part7">
                         <img src="../assets/images/opy.png" alt="Partner 7">
                     </div>
                 </div>
@@ -118,7 +123,8 @@
         </div>
       </section>
       <section class="mt-64 text-center flex flex-col justify-center items-center mr-8">
-        <p class="text-white text-4xl lg:text-[56px] 2xl:text-[56px] lg:leading-tight 2xl:leading-tight mb-20">Join Over <span class="block text-gradient">30,000 Users</span></p>
+        <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-left">Join Over<span class="text-gradient"> 30,000</span></p>
+        <p class="text-gradient mt-10 mb-8 text-5xl 2xl:text-[65px] text-left" style="margin-top: -20px;">Users</p>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-4">
             <div class="w-full relative m-4">
                 <div class="bg-primary py-9 px-7 rounded-xl">
@@ -287,6 +293,15 @@
 </template>
 
 <style scoped>
+@media screen and (min-width: 630px) {
+    .part6 {
+        margin-left: -145px;
+    }
+    .part7 {
+        margin-left: -145px;
+        margin-right: 145px;
+    }
+}
 @media screen and (max-width: 767px) {
     .responsive-img {
         width: 50%;

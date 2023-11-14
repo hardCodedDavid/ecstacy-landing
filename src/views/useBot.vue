@@ -8,7 +8,6 @@
       <section id="hero" class="m-auto text-center w-full flex flex-col justify-center items-center">
         <div class="flex flex-col lg:flex-row text-left">
           <div class="flex-[1.1]">
-            <!-- <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-left">How to use <span class="block text-gradient">Ecstacy</span></p> -->
             <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-left">How to use <span class="text-gradient">Ecstacy</span></p>
             <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-gradient text-left" style="margin-top: -20px;">Chatbot on WhatsApp</p>
             <p class="text-gray4 lg:w-3/4 text-muted">Ecstasy allows you to Buy cheap data bundles, Buy airtime at cheaper rate, Recharge TV and Pay Bills right from your in-app wallet</p>
@@ -23,8 +22,8 @@
         </div>
       </section>
 
-      <section class="w-full text-left flex flex-col">
-        <div class="text-left">
+      <section class="w-full text-center justify-center items-center">
+        <div class="text-center">
             <p class="mt-10 mb-8 2xl:text-[36px] sm:text-[20px] text-white">How to <span class="text-gradient">Purchase Data</span></p>
         </div>
         
@@ -41,8 +40,8 @@
         </div>
       </section>
 
-      <section class="w-full text-left flex flex-col">
-        <div class="text-left">
+      <section class="w-full text-center flex flex-col">
+        <div class="text-center">
             <p class="mt-10 mb-8 2xl:text-[36px] sm:text-[20px] text-white">How to <span class="text-gradient">Purchase Airtime</span></p>
         </div>
         
@@ -59,8 +58,8 @@
         </div>
       </section>
 
-      <section class="w-full text-left flex flex-col">
-        <div class="text-left">
+      <section class="w-full text-center flex flex-col">
+        <div class="text-center">
             <p class="mt-10 mb-8 2xl:text-[36px] sm:text-[20px] text-white">How to <span class="text-gradient">Pay For Electricity</span></p>
         </div>
         
@@ -77,8 +76,8 @@
         </div>
       </section>
 
-      <section class="w-full text-left flex flex-col">
-        <div class="text-left">
+      <section class="w-full text-center flex flex-col">
+        <div class="text-center">
             <p class="mt-10 mb-8 2xl:text-[36px] sm:text-[20px] text-white">How to <span class="text-gradient">Pay TV Subscription</span></p>
         </div>
         
@@ -96,7 +95,8 @@
       </section>
 
       <section class="mt-64 text-center flex flex-col justify-center items-center mr-8">
-        <p class="text-white text-4xl lg:text-[56px] 2xl:text-[56px] lg:leading-tight 2xl:leading-tight mb-20">Join Over <span class="block text-gradient">30,000 Users</span></p>
+        <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-left">Join Over<span class="text-gradient"> 30,000</span></p>
+        <p class="text-gradient mt-10 mb-8 text-5xl 2xl:text-[65px] text-left" style="margin-top: -20px;">Users</p>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-4">
             <div class="w-full relative m-4">
                 <div class="bg-primary py-9 px-7 rounded-xl">
@@ -270,13 +270,16 @@
     width: 100%;
     height: 0;
     padding-bottom: 56.25%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
 }
 
 .video-player-con .video-player iframe {
     position: absolute;
     width: 80%;
     height: 80%;
-    left: 0;
     top: 0;
 }
 @media screen and (max-width: 767px) {
