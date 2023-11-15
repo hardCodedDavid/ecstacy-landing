@@ -2,16 +2,21 @@
   <div>
     <div v-if="useBotNav  == 'Bot'">
       <botNav></botNav>
+      <router-view></router-view>
+      <botFooter></botFooter>
     </div>
     <div v-else-if="useBotNav == 'useBot'">
       <whatsappNav></whatsappNav>
+      <router-view></router-view>
+      <botFooter></botFooter>
     </div>
     <div v-else>
       <navbar></navbar>
-    </div>
 
-    <router-view></router-view>
-    <Footer></Footer>
+      <router-view></router-view>
+
+      <Footer></Footer>
+    </div>
   </div>
 </template>
 
@@ -21,6 +26,7 @@ import Navbar from './components/Navbar.vue'
 import botNav from './components/botNav.vue'
 import whatsappNav from './components/whatsappNav.vue'
 import Footer from './components/Footer.vue'
+import botFooter from './components/botFooter.vue'
 
 const instance = getCurrentInstance();
 const useBotNav = computed(() => {

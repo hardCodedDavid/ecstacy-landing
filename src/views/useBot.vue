@@ -32,7 +32,7 @@
                 <div class="object-html block-object">
                     <div class="video-player-con">
                         <div class="video-player">
-                            <iframe src="https://www.youtube.com/embed/U6Q42hy7-Ks?si=WE19MWEyLpJMsTq4" frameborder="0" allowtransparency="true" class="embedded-video"></iframe>
+                            <iframe class="embedded-video w-full h-full" src="https://www.youtube.com/embed/U6Q42hy7-Ks?si=WE19MWEyLpJMsTq4" frameborder="0" allowtransparency="true"></iframe>
                         </div>
                     </div>
                 </div>
@@ -50,7 +50,7 @@
                 <div class="object-html block-object">
                     <div class="video-player-con">
                         <div class="video-player">
-                            <iframe src="https://www.youtube.com/embed/U6Q42hy7-Ks?si=WE19MWEyLpJMsTq4" frameborder="0" allowtransparency="true" class="embedded-video"></iframe>
+                            <iframe class="embedded-video w-full h-full" src="https://www.youtube.com/embed/U6Q42hy7-Ks?si=WE19MWEyLpJMsTq4" frameborder="0" allowtransparency="true"></iframe>
                         </div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
                 <div class="object-html block-object">
                     <div class="video-player-con">
                         <div class="video-player">
-                            <iframe src="https://www.youtube.com/embed/U6Q42hy7-Ks?si=WE19MWEyLpJMsTq4" frameborder="0" allowtransparency="true" class="embedded-video"></iframe>
+                            <iframe class="embedded-video w-full h-full" src="https://www.youtube.com/embed/U6Q42hy7-Ks?si=WE19MWEyLpJMsTq4" frameborder="0" allowtransparency="true"></iframe>
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                 <div class="object-html block-object">
                     <div class="video-player-con">
                         <div class="video-player">
-                            <iframe src="https://www.youtube.com/embed/U6Q42hy7-Ks?si=WE19MWEyLpJMsTq4" frameborder="0" allowtransparency="true" class="embedded-video"></iframe>
+                            <iframe class="embedded-video w-full h-full" src="https://www.youtube.com/embed/U6Q42hy7-Ks?si=WE19MWEyLpJMsTq4" frameborder="0" allowtransparency="true"></iframe>
                         </div>
                     </div>
                 </div>
@@ -95,7 +95,7 @@
       </section>
 
       <section class="mt-64 text-center flex flex-col justify-center items-center mr-8">
-        <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-left">Join Over<span class="text-gradient"> 30,000</span></p>
+        <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-center">Join Over<span class="text-gradient"> 30,000</span></p>
         <p class="text-gradient mt-10 mb-8 text-5xl 2xl:text-[65px] text-left" style="margin-top: -20px;">Users</p>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-4">
             <div class="w-full relative m-4">
@@ -278,8 +278,8 @@
 
 .video-player-con .video-player iframe {
     position: absolute;
-    width: 80%;
-    height: 80%;
+    /* width: 80%; */
+    /* height: 80%; */
     top: 0;
 }
 @media screen and (max-width: 767px) {

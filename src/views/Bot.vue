@@ -9,7 +9,7 @@
         <div class="flex flex-col lg:flex-row text-left">
           <div class="flex-[1.1]">
             <!-- <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-left">AI-Bill<span class="block text-gradient">I’m Annie,</span></p> -->
-            <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-left text-white"><b class="text-gradient" style="font-weight: 500;">I’m Jimmy, </b>AI-Bill</p>
+            <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-left text-white"><b class="text-gradient" style="font-weight: 500;">I’m Timi, </b>AI-Bill</p>
             <p class="mt-0 p-0 mb-8 text-5xl 2xl:text-[65px] text-white text-left" style="margin-top: -20px;">Payment Chatbot on Whatsapp</p>
             <p class="text-gray4 lg:w-3/4">Purchase SME/CG Data bundles, Airtime, Electricity token and other utilities seamlessly with Annie on your Whatsapp App.</p>
            <div class="md:flex items-center">
@@ -97,25 +97,25 @@
             <div class="flex-[1.1]">
                 <div class="flex flex-wrap justify-between">
                     <!-- Equal-width columns for images -->
-                    <div class="w-1/4 mt-4">
+                    <div class="sm:w-1/2 w-1/4 mt-4">
                         <img src="../assets/images/mnf.png" alt="Partner 1">
                     </div>
-                    <div class="w-1/4 mt-4">
+                    <div class="sm:w-1/2 md:w-1/4 mt-4">
                         <img src="../assets/images/fws.png" alt="Partner 2">
                     </div>
-                    <div class="w-1/4 mt-4">
+                    <div class="sm:w-1/2 md:w-1/4 mt-4">
                         <img src="../assets/images/mtn.png" alt="Partner 3">
                     </div>
-                    <div class="w-1/4 mt-4">
+                    <div class="sm:w-1/2 md:w-1/4 mt-4">
                         <img src="../assets/images/glo.png" alt="Partner 4">
                     </div>
-                    <div class="w-1/3 mt-4">
+                    <div class="sm:w-1/2 md:w-1/3 mt-4">
                         <img src="../assets/images/atl.png" alt="Partner 5">
                     </div>
-                    <div class="w-1/3 mt-4 part6">
+                    <div class="sm:w-1/2 md:w-1/3 mt-4 part6">
                         <img src="../assets/images/fw.png" alt="Partner 6">
                     </div>
-                    <div class="w-1/3 mt-4 part7">
+                    <div class="sm:w-1/2 md:w-1/3 mt-4 part7">
                         <img src="../assets/images/opy.png" alt="Partner 7">
                     </div>
                 </div>
@@ -123,8 +123,8 @@
         </div>
       </section>
       <section class="mt-64 text-center flex flex-col justify-center items-center mr-8">
-        <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-left">Join Over<span class="text-gradient"> 30,000</span></p>
-        <p class="text-gradient mt-10 mb-8 text-5xl 2xl:text-[65px] text-left" style="margin-top: -20px;">Users</p>
+        <p class="mt-10 mb-8 text-5xl 2xl:text-[65px] text-white text-center">Join Over<span class="text-gradient"> 30,000</span></p>
+        <p class="text-gradient mt-10 mb-8 text-5xl 2xl:text-[65px] text-left sm-mt-2" style="margin-top: -20px;">Users</p>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mt-4">
             <div class="w-full relative m-4">
                 <div class="bg-primary py-9 px-7 rounded-xl">
