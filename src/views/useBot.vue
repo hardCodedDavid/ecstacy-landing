@@ -24,7 +24,7 @@
 
       <section class="lg:mt-32 lg:w-4/5 m-auto text-left justify-center items-center">
         <div class="text-center mt-20">
-            <p class="mt-10 mb-8 2xl:text-[36px] sm:text-[20px] text-white text-left">How to <span class="text-gradient">Purchase Data</span></p>
+            <p class="mt-10 mb-8 2xl:text-[36px] sm:text-[20px] text-white text-left">How to <span class="text-gradient">How to Buy Data With One Command on the Ecstacy Bot</span></p>
         </div>
         
         <div class="w-full">
@@ -32,13 +32,31 @@
                 <div class="object-html block-object">
                     <div class="video-player-con">
                         <div class="video-player">
-                            <iframe class="embedded-video w-full h-full" src="https://www.youtube.com/embed/U6Q42hy7-Ks?si=WE19MWEyLpJMsTq4" frameborder="0" allowtransparency="true"></iframe>
+                            <iframe class="embedded-video w-full h-full" src="https://www.youtube.com/embed/PmO-ZPOZjwE?si=GuvqBET8tzgcSdet" frameborder="0" allowtransparency="true"></iframe>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
       </section>
+
+        <section class="lg:mt-32 lg:w-4/5 m-auto text-center flex flex-col">
+        <div class="text-center">
+            <p class="mt-10 mb-8 2xl:text-[36px] sm:text-[20px] text-white text-left">How to <span class="text-gradient">Login/Sign Up on the Ecsty Bot</span></p>
+        </div>
+        
+        <div class="w-full">
+            <div class="embedded-object">
+                <div class="object-html block-object">
+                    <div class="video-player-con">
+                        <div class="video-player">
+                            <iframe class="embedded-video w-full h-full" src="https://www.youtube.com/embed/LHuG_2defhw?si=1LxFPo3VcZQ2EP9d" frameborder="0" allowtransparency="true"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </section>
 
       <section class="lg:mt-32 lg:w-4/5 m-auto text-center flex flex-col">
         <div class="text-center">
@@ -50,7 +68,7 @@
                 <div class="object-html block-object">
                     <div class="video-player-con">
                         <div class="video-player">
-                            <iframe class="embedded-video w-full h-full" src="https://www.youtube.com/embed/U6Q42hy7-Ks?si=WE19MWEyLpJMsTq4" frameborder="0" allowtransparency="true"></iframe>
+                            <iframe class="embedded-video w-full h-full" src="https://www.youtube.com/watch?v=LHuG_2defhw" frameborder="0" allowtransparency="true"></iframe>
                         </div>
                     </div>
                 </div>
@@ -68,25 +86,7 @@
                 <div class="object-html block-object">
                     <div class="video-player-con">
                         <div class="video-player">
-                            <iframe class="embedded-video w-full h-full" src="https://www.youtube.com/embed/U6Q42hy7-Ks?si=WE19MWEyLpJMsTq4" frameborder="0" allowtransparency="true"></iframe>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-      </section>
-
-      <section class="lg:mt-32 lg:w-4/5 m-auto text-center flex flex-col">
-        <div class="text-center">
-            <p class="mt-10 mb-8 2xl:text-[36px] sm:text-[20px] text-white text-left">How to <span class="text-gradient">Pay TV Subscription</span></p>
-        </div>
-        
-        <div class="w-full">
-            <div class="embedded-object">
-                <div class="object-html block-object">
-                    <div class="video-player-con">
-                        <div class="video-player">
-                            <iframe class="embedded-video w-full h-full" src="https://www.youtube.com/embed/U6Q42hy7-Ks?si=WE19MWEyLpJMsTq4" frameborder="0" allowtransparency="true"></iframe>
+                            <iframe class="embedded-video w-full h-full" src="https://youtu.be/PmO-ZPOZjwE?si=oYvHh-agVvpRC5e6" frameborder="0" allowtransparency="true"></iframe>
                         </div>
                     </div>
                 </div>

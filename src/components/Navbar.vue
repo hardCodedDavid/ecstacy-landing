@@ -9,8 +9,8 @@
       </router-link>
       <div class="hidden md:flex text-base lg:text-lg md:w-1/2 lg:w-1/2 xl:w-1/3 justify-between text-secondary">
         <router-link :to="{ name: 'Home' }" :class="{ 'text-gradient': isActiveRoute('Home') }">Home</router-link>
-        <router-link :to="{ name: 'About' }" :class="{ 'text-gradient': isActiveRoute('About') }">About Ecstasy</router-link>
         <a href="#features" class="mr-3">Features</a>
+        <router-link :to="{ name: 'About' }" :class="{ 'text-gradient': isActiveRoute('About') }">About Us</router-link>
         <router-link :to="{ name: 'Bot' }" :class="{ 'text-gradient': isActiveRoute('Bot') }">Ecstasy Bot</router-link>
       </div>
       <a href="#getstarted">
@@ -25,8 +25,8 @@
     </div>
     <div class="md:hidden bg-transparent backdrop-blur mt-8 flex flex-col text-base lg:text-lg w-full justify-between text-white">
       <router-link @click="toggleIsNavOpen" :to="{ name: 'Home' }" :class="{ 'mb-6': isActiveRoute('Home') }">Home</router-link>
-      <router-link @click="toggleIsNavOpen" :to="{ name: 'About' }" :class="{ 'mb-6': isActiveRoute('About') }">About Ecstasy</router-link>
-      <a @click="toggleIsNavOpen" href="#features" class="mb-6">Features</a>
+      <router-link @click="toggleIsNavOpen" :to="{ name: 'About' }" :class="{ 'mb-6': isActiveRoute('About') }">About Us</router-link>
+      <a @click="toggleIsNavOpen" href="#features" class="mb-6 mt-6">Features</a>
       <router-link @click="toggleIsNavOpen" :to="{ name: 'Bot' }" :class="{ 'mb-6': isActiveRoute('Bot') }">Ecstasy Bot</router-link>
     </div>
   </main>

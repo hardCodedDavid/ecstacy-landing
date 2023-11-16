@@ -4,7 +4,7 @@
 
 <template>
   <main class="w-full bg-darkie px-6 md:px-12 overflow-hidden">
-    <div class="py-48 2xl:py-56 max-w-desktop m-auto">
+    <div class="py-32 2xl:py-56 max-w-desktop m-auto">
       <section id="hero" class="m-auto text-center w-full flex flex-col justify-center items-center">
         <div class="flex flex-col lg:flex-row text-left">
           <div class="flex-[1.1]">
@@ -12,7 +12,7 @@
             <p class="top-text mt-0 p-0 mb-8 text-5xl 2xl:text-[65px] text-white lg:text-left" style="margin-top: -20px;">Payment Chatbot on <br> Whatsapp</p>
             <p class="text-gray4 lg:w-3/4">Purchase SME/CG Data bundles, Airtime, Electricity token and other utilities seamlessly with Timi on your Whatsapp App.</p>
            <div class="md:flex items-center">
-            <a href="#getstarted"><button class="mt-10 py-4 rounded-xl text-base 2xl:text-lg px-20 bg-gradient text-white">Launch Bot</button></a>
+            <a href="#getstarted"><button class="mt-10 py-4 rounded-xl text-base 2xl:text-lg px-20 bg-gradient text-white">Launch Chatbot</button></a>
             <p class="text-gray4 ml-5 mt-8">Use for free on WhatsApp!</p>
            </div>
           </div>
@@ -91,34 +91,34 @@
       </section>
       <section class="w-70 mx-auto mt-32 mb-10">
         <div class="flex flex-col lg:flex-row text-left">
-            <div class="lg:w-2/5">
-            <p class="mt-10 mb-8 text-[36px] text-white text-left"><span class="block text-gradient">Our Partners</span></p>
+            <div class="lg:w-1/5">
+                <p class="mt-10 mb-8 text-[36px] text-white text-left"><span class="block text-gradient">Our Partners</span></p>
             </div>
-            <div class="lg:w-3/5">
-            <div class="flex flex-wrap -mx-2">
-                <!-- Equal-width columns for images -->
-                <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
-                <img src="../assets/images/mnf.png" alt="Partner 1">
+            <div class="lg:w-4/5">
+                <div class="flex flex-wrap -mx-2">
+                    <!-- Equal-width columns for images -->
+                    <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
+                    <img src="../assets/images/mnf.png" alt="Partner 1">
+                    </div>
+                    <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
+                    <img src="../assets/images/fws.png" alt="Partner 2">
+                    </div>
+                    <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-1 px-2">
+                    <img src="../assets/images/mtn.png" alt="Partner 3">
+                    </div>
+                    <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
+                    <img src="../assets/images/glo.png" alt="Partner 4">
+                    </div>
+                    <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
+                    <img src="../assets/images/atl.png" alt="Partner 5">
+                    </div>
+                    <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
+                    <img src="../assets/images/fw.png" alt="Partner 6">
+                    </div>
+                    <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
+                    <img src="../assets/images/opy.png" alt="Partner 7">
+                    </div>
                 </div>
-                <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
-                <img src="../assets/images/fws.png" alt="Partner 2">
-                </div>
-                <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
-                <img src="../assets/images/mtn.png" alt="Partner 3">
-                </div>
-                <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
-                <img src="../assets/images/glo.png" alt="Partner 4">
-                </div>
-                <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
-                <img src="../assets/images/atl.png" alt="Partner 5">
-                </div>
-                <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
-                <img src="../assets/images/fw.png" alt="Partner 6">
-                </div>
-                <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 mt-4 px-2">
-                <img src="../assets/images/opy.png" alt="Partner 7">
-                </div>
-            </div>
             </div>
         </div>
       </section>
@@ -302,9 +302,9 @@
     }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 640px) {
     .responsive-img {
-        width: 60%;
+        width: 80%;
         margin: -242px auto 0 auto;
     }
 }

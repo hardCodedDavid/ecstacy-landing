@@ -7,7 +7,7 @@
           <router-link :to="{ name: 'Bot' }" class="text-gradient">Ecstasy Bot</router-link>
           <router-link :to="{ name: 'useBot' }">How to Use</router-link>
         </div>
-        <a href="#getstarted"><button class="-mr-8 sm:-mr-12 md:mr-0 text-base lg:text-lg py-2 md:py-3 px-4 md:px-8 bg-white rounded-lg"><p class="text-gradient">Launch Chatbot</p></button></a>
+        <a href="#getstarted"><button class="button -mr-8 sm:-mr-12 md:mr-0 text-base lg:text-lg py-2 md:py-3 px-4 md:px-8 bg-white rounded-lg"><p class="text-gradient">Launch Chatbot</p></button></a>
         <div @click="toggleIsNavOpen()" class="pr-2 md:pr-16 md:hidden h-3 flex flex-col justify-between">
           <span class="w-8 h-[1.8px] bg-gray4 relative block rounded-xl"></span>
           <span class="w-8 h-[1.8px] bg-gray4 relative block rounded-xl"></span>
@@ -29,5 +29,12 @@
   }
   </script>
   
-  <style></style>
+<style scoped>
+  @media screen and (max-width: 640px) {
+    .button {
+        scale: .9;
+    }
+
+  }
+</style>
   
