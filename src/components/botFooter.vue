@@ -14,8 +14,8 @@
           <div class="text-gray6 text-center text-base 2xl:text-lg">
             <div class="foot md:flex md:justify-center md:items-center">
                 <div class="foot1 flex mb-6 m-auto justify-center items-center sm:ml-32">
-                    <a target="_blank" href="#"><img class="w-10 h-10 m-2" src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png' /></a>
-                    <a target="_blank" href="#"><img class="w-10 h-10 m-2" src='https://i0.wp.com/soundings.com/wp-content/uploads/2021/03/INSTAGRAM-Logo-Round-1000px.png?fit=1000%2C1000&ssl=1' /></a>
+                    <a target="_blank" href="https://www.facebook.com/profile.php?id=100089155020464&mibextid=9R9pXO"><img style="margin-top: 30px;" class="w-7 h-7 m-2" src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png' /></a>
+                    <a target="_blank" href="https://instagram.com/ecstasy_app?igshid=MmVlMjlkMTBhMg=="><img style="margin-top: 30px;" class="w-7 h-7 m-2" src='https://i0.wp.com/soundings.com/wp-content/uploads/2021/03/INSTAGRAM-Logo-Round-1000px.png?fit=1000%2C1000&ssl=1' /></a>
                 </div>
                 <div class="m-auto">
                     <router-link :to="{ name: 'Terms of Service' }" class="mr-2 md:mr-7">Terms of service</router-link> |

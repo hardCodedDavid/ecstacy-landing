@@ -4,7 +4,7 @@
         <router-link :to="{ name: 'Home' }"><div class="flex justify-center items-center"><img src="../assets/images/logoecstasyApp.svg"  class="h-10 w-10 inline" /><span class="text-secondary ml-2 text-base lg:text-lg">Ecstasy</span></div></router-link>
         <div class="hidden md:flex text-base lg:text-lg md:w-2/5 lg:w-1/3 xl:w-1/4 justify-between text-secondary">
           
-          <router-link :to="{ name: 'Bot' }">Ecstasy Bot</router-link>
+          <router-link :to="{ name: 'Bot' }" class="text-gradient">Ecstasy Bot</router-link>
           <router-link :to="{ name: 'useBot' }">How to Use</router-link>
         </div>
         <a href="#getstarted"><button class="-mr-8 sm:-mr-12 md:mr-0 text-base lg:text-lg py-2 md:py-3 px-4 md:px-8 bg-white rounded-lg"><p class="text-gradient">Launch Chatbot</p></button></a>
