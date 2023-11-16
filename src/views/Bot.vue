@@ -10,7 +10,7 @@
           <div class="flex-[1.1]">
             <p class="top-text mt-10 mb-8 text-5xl 2xl:text-[65px] lg:text-left text-white"><b class="text-gradient" style="font-weight: 500;">I’m Timi, </b>AI-Bill</p>
             <p class="top-text mt-0 p-0 mb-8 text-5xl 2xl:text-[65px] text-white lg:text-left" style="margin-top: -20px;">Payment Chatbot on <br> Whatsapp</p>
-            <p class="text-gray4 lg:w-3/4">Purchase SME/CG Data bundles, Airtime, Electricity token and other utilities seamlessly with Annie on your Whatsapp App.</p>
+            <p class="text-gray4 lg:w-3/4">Purchase SME/CG Data bundles, Airtime, Electricity token and other utilities seamlessly with Timi on your Whatsapp App.</p>
            <div class="md:flex items-center">
             <a href="#getstarted"><button class="mt-10 py-4 rounded-xl text-base 2xl:text-lg px-20 bg-gradient text-white">Launch Bot</button></a>
             <p class="text-gray4 ml-5 mt-8">Use for free on WhatsApp!</p>
@@ -31,7 +31,7 @@
                     <!-- <div class="bg-gradient w-[90%] h-32 -z-[1] -rotate-12 ml-4 rounded-xl"></div> -->
                     <div class="bg-primary py-9 px-7 rounded-xl flex-grow">
                     <p class="text-gray6 text-xl 2xl:text-2xl mb-4">Command Purchase</p>
-                    <p class="text-secondary">Annie supports purchasing airtime with commands in WhatsApp, allowing you to engage in seamless and fast conversations with the AI-Chatbot through text instructions.</p>
+                    <p class="text-secondary">Timi supports purchasing airtime with commands in WhatsApp, allowing you to engage in seamless and fast conversations with the AI-Chatbot through text instructions.</p>
                     </div>
                     
                 </div>
@@ -62,21 +62,21 @@
                 <div class="w-full mt-5 relative">
                     <div class="bg-primary py-9 px-10 rounded-xl">
                     <p class="text-gray6 text-xl 2xl:text-2xl mb-4">Manage Your Transactions</p>
-                    <p class="text-secondary">Track your transaction history with a few commands. Can’t remember your wallet balance? No problem, with Annie you'll not forget again.</p>
+                    <p class="text-secondary">Track your transaction history with a few commands. Can’t remember your wallet balance? No problem, with Timi you'll not forget again.</p>
                     </div>
                     <div class="bg-darker w-[90%] h-32 mb-4 absolute top-0 -z-[1] -rotate-12 ml-4 rounded-xl"></div>
                 </div>
                 <div class="w-full mt-5 relative">
                     <div class="bg-primary py-9 px-7 rounded-xl">
                     <p class="text-gray6 text-xl 2xl:text-2xl mb-4">Fund your wallet</p>
-                    <p class="text-secondary">Leverage Annie AI-Chatbot in WhatsApp to fund your wallet seamlessly, streamlining the funding process with personalized account details and different payment options.</p>
+                    <p class="text-secondary">Leverage Timi AI-Chatbot in WhatsApp to fund your wallet seamlessly, streamlining the funding process with personalized account details and different payment options.</p>
                     </div>
                     <div class="bg-darker w-[90%] h-32 mb-4 absolute top-0 -z-[1] -rotate-12 ml-4 rounded-xl"></div>
                 </div>
                 <div class="w-full mt-5 relative">
                     <div class="bg-primary py-9 px-7 rounded-xl">
                     <p class="text-gray6 text-xl 2xl:text-2xl mb-4">WhatsApp Process Improvement</p>
-                    <p class="text-secondary">Using Annie AI-Chatbot in WhatsApp facilitates the purchase processes by handling requests and accelerating response times, which in turn improves overall process.</p>
+                    <p class="text-secondary">Using Timi AI-Chatbot in WhatsApp facilitates the purchase processes by handling requests and accelerating response times, which in turn improves overall process.</p>
                     </div>
                     <div class="bg-darker w-[90%] h-32 mb-4 absolute top-0 -z-[1] -rotate-12 ml-4 rounded-xl"></div>
                 </div>
