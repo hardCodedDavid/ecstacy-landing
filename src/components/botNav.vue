@@ -14,7 +14,7 @@
         </div>
       </div>
       <div class="md:hidden bg-transparent backdrop-blur mt-8 flex flex-col text-base lg:text-lg w-full justify-between text-white">
-        <router-link @click="isNavOpen = !isNavOpen" :to="{ name: 'Bot' }" class="mb-6">Ecstacy Bot</router-link>
+        <router-link @click="isNavOpen = !isNavOpen" :to="{ name: 'Bot' }" class="mb-6">Ecstasy Bot</router-link>
         <router-link @click="isNavOpen = !isNavOpen" :to="{ name: 'useBot' }" class="mb-6">How to Use</router-link>
       </div>
     </main>

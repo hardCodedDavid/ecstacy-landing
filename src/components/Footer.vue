@@ -26,7 +26,7 @@
           </div>
           <p class="text-secondary px-0 md:px-20 mt-8 mb-12 text-center">Ecstasy Inc. is a financial technology company and is not a bank. Banking services are provided by licensed banking partners. Ecstasy is duly licensed by the Securities and Exchange Commission (SEC) of Nigeria. The virtual bank account number in line with the Nigeria Uniform Bank Account Number (NUBAN) numbering system which are generated with the names of selected banks through our payment partners.</p>
           <img src="../assets/images/logoecstasyApp.svg"  class="h-20 w-20 m-auto" />
-          <!-- <p class="mt-10 mb-8 text-2xl text-white text-center text-bold">Powered by <a href="/" class="text-gradient">Ecstacy</a></p> -->
+          <!-- <p class="mt-10 mb-8 text-2xl text-white text-center text-bold">Powered by <a href="/" class="text-gradient">Ecstasy</a></p> -->
         </div>
     </div>
   </main>
