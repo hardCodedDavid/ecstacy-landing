@@ -102,7 +102,7 @@
                 <div class="bg-primary py-6 px-4 rounded-xl flex flex-col h-full">
                     <div class="grid grid-cols-5 items-center">
                         <div class="col-span-1">
-                            <img src="https://thumbs.dreamstime.com/b/default-avatar-profile-icon-vector-default-avatar-profile-icon-vector-social-media-user-image-vector-illustration-227787227.jpg" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
+                            <img src="../assets/images/avatar.webp" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
                         </div>
                         <div class="col-span-3 flex flex-col justify-around ml-2">
                             <p class="text-gray6 text-sm lg:text-base m-0 text-left font-bold">Mathef Isaac</p>
@@ -122,7 +122,7 @@
                 <div class="bg-primary py-6 px-4 rounded-xl flex flex-col h-full">
                     <div class="grid grid-cols-5 items-center">
                         <div class="col-span-1">
-                            <img src="https://thumbs.dreamstime.com/b/default-avatar-profile-icon-vector-default-avatar-profile-icon-vector-social-media-user-image-vector-illustration-227787227.jpg" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
+                            <img src="../assets/images/avatar.webp" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
                         </div>
                         <div class="col-span-3 flex flex-col justify-around ml-2">
                             <p class="text-gray6 text-sm lg:text-base m-0 text-left font-bold">Emmanuel Ajibade</p>
@@ -142,7 +142,7 @@
                 <div class="bg-primary py-6 px-4 rounded-xl flex flex-col h-full">
                     <div class="grid grid-cols-5 items-center">
                         <div class="col-span-1">
-                            <img src="https://thumbs.dreamstime.com/b/default-avatar-profile-icon-vector-default-avatar-profile-icon-vector-social-media-user-image-vector-illustration-227787227.jpg" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
+                            <img src="../assets/images/avatar.webp" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
                         </div>
                         <div class="col-span-3 flex flex-col justify-around ml-2">
                             <p class="text-gray6 text-sm lg:text-base m-0 text-left font-bold">Manuel</p>
@@ -162,7 +162,7 @@
                 <div class="bg-primary py-6 px-4 rounded-xl flex flex-col h-full">
                     <div class="grid grid-cols-5 items-center">
                         <div class="col-span-1">
-                            <img src="https://thumbs.dreamstime.com/b/default-avatar-profile-icon-vector-default-avatar-profile-icon-vector-social-media-user-image-vector-illustration-227787227.jpg" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
+                            <img src="../assets/images/avatar.webp" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
                         </div>
                         <div class="col-span-3 flex flex-col justify-around ml-2">
                             <p class="text-gray6 text-sm lg:text-base m-0 text-left font-bold">Samad Gbolahan</p>
@@ -182,7 +182,7 @@
                 <div class="bg-primary py-6 px-4 rounded-xl flex flex-col h-full">
                     <div class="grid grid-cols-5 items-center">
                         <div class="col-span-1">
-                            <img src="https://thumbs.dreamstime.com/b/default-avatar-profile-icon-vector-default-avatar-profile-icon-vector-social-media-user-image-vector-illustration-227787227.jpg" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
+                            <img src="../assets/images/avatar.webp" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
                         </div>
                         <div class="col-span-3 flex flex-col justify-around ml-2">
                             <p class="text-gray6 text-sm lg:text-base m-0 text-left font-bold">Samuel Chetachi</p>
@@ -202,7 +202,7 @@
                 <div class="bg-primary py-6 px-4 rounded-xl flex flex-col h-full">
                     <div class="grid grid-cols-5 items-center">
                         <div class="col-span-1">
-                            <img src="https://thumbs.dreamstime.com/b/default-avatar-profile-icon-vector-default-avatar-profile-icon-vector-social-media-user-image-vector-illustration-227787227.jpg" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
+                            <img src="../assets/images/avatar.webp" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
                         </div>
                         <div class="col-span-3 flex flex-col justify-around ml-2">
                             <p class="text-gray6 text-sm lg:text-base m-0 text-left font-bold">Lawrence Kunmilola</p>
@@ -222,7 +222,7 @@
                 <div class="bg-primary py-6 px-4 rounded-xl flex flex-col h-full">
                     <div class="grid grid-cols-5 items-center">
                         <div class="col-span-1">
-                            <img src="https://thumbs.dreamstime.com/b/default-avatar-profile-icon-vector-default-avatar-profile-icon-vector-social-media-user-image-vector-illustration-227787227.jpg" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
+                            <img src="../assets/images/avatar.webp" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
                         </div>
                         <div class="col-span-3 flex flex-col justify-around ml-2">
                             <p class="text-gray6 text-sm lg:text-base m-0 text-left font-bold">Fawola Ezekiel</p>
@@ -242,7 +242,7 @@
                 <div class="bg-primary py-6 px-4 rounded-xl flex flex-col h-full">
                     <div class="grid grid-cols-5 items-center">
                         <div class="col-span-1">
-                            <img src=".https://thumbs.dreamstime.com/b/default-avatar-profile-icon-vector-default-avatar-profile-icon-vector-social-media-user-image-vector-illustration-227787227.jpg" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
+                            <img src=".../assets/images/avatar.webp" alt="" srcset="" class="rounded-full w-10 h-10 lg:w-12 lg:h-12">
                         </div>
                         <div class="col-span-3 flex flex-col justify-around ml-2">
                             <p class="text-gray6 text-sm lg:text-base m-0 text-left font-bold">Oyemakin Niyi</p>
