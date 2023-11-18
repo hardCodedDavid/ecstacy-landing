@@ -4,7 +4,7 @@
       <div class="max-w-desktop m-auto py-3 md:py-6 flex justify-between items-center">
         <router-link :to="{ name: 'Home' }"><div class="flex justify-center items-center"><img src="../assets/images/logoecstasyApp.svg"  class="h-10 w-10 inline" /><span class="text-secondary ml-2 text-base lg:text-lg">Ecstasy</span></div></router-link>
         <div class="hidden md:flex text-base lg:text-lg md:w-2/5 lg:w-1/3 xl:w-1/4 justify-between text-secondary">
-          
+          <router-link :to="{ name: 'Home' }">Home</router-link>
           <router-link :to="{ name: 'Bot' }">Ecstasy Bot</router-link>
           <router-link :to="{ name: 'useBot' }" class="text-gradient">How to Use</router-link>
         </div>
@@ -15,6 +15,7 @@
         </div>
       </div>
       <div class="md:hidden bg-transparent backdrop-blur mt-8 flex flex-col text-base lg:text-lg w-full justify-between text-white">
+        <router-link @click="isNavOpen = !isNavOpen" :to="{ name: 'Home' }" class="mb-6">Home</router-link>
         <router-link @click="isNavOpen = !isNavOpen" :to="{ name: 'Bot' }" class="mb-6">Ecstasy Bot</router-link>
         <router-link @click="isNavOpen = !isNavOpen" :to="{ name: 'useBot' }" class="mb-6">How to Use</router-link>
       </div>

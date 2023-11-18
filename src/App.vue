@@ -1,12 +1,7 @@
 <template>
   <div>
-    <div v-if="useBotNav  == 'Bot'">
+    <div v-if="useBotNav  == 'Bot' || useBotNav == 'useBot'">
       <botNav></botNav>
-      <router-view></router-view>
-      <botFooter></botFooter>
-    </div>
-    <div v-else-if="useBotNav == 'useBot'">
-      <whatsappNav></whatsappNav>
       <router-view></router-view>
       <botFooter></botFooter>
     </div>
