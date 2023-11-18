@@ -19,7 +19,6 @@
 import { ref, computed, getCurrentInstance } from 'vue';
 import Navbar from './components/Navbar.vue'
 import botNav from './components/botNav.vue'
-import whatsappNav from './components/whatsappNav.vue'
 import Footer from './components/Footer.vue'
 import botFooter from './components/botFooter.vue'
 
